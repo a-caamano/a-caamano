@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Im currently studying IA and lokking for a job. I also want to make fun interesting projects!
+## Im currently studying IA and looking for a job. I also want to make fun interesting projects!
 
 - 🔭 I’m currently working on fun, personal projects!
 - 🌱 I’m currently learning AI & ML.
